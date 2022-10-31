@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Ick
+
+  Created by endeavour42 on 31/10/2022.
+  
+*/
+
+query = "Query";
+appName = "Ick App";
+first5thChar = "First 5th Character";
+every10thChar = "Every 10th Character";
+wordCounter = "Word Counter";
